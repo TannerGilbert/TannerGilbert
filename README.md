@@ -5,6 +5,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tannergilbert&show_icons=true" alt="tannergilbert" />
 </p>
 
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Connect with me:
 <p align="center">
@@ -14,7 +17,3 @@
 <a href="https://medium.com/@gilberttanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gilberttanner" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/gilbert tanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="gilbert tanner" height="30" width="30" /></a>
 </p>
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
