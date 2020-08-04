@@ -17,4 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ML-Agents 1.0 - A Definite Guide](gilberttanner.com/blog/ml-agents)
+- [Tensorflow Object Detection with Tensorflow 2: Creating a custom model](gilberttanner.com/blog/tensorflow-object-detection-with-tensorflow-2-creating-a-custom-model)
+- [Tensorflow Object Detection with Tensorflow 2](gilberttanner.com/blog/object-detection-with-tensorflow-2)
+- [Arduino Nano 33 BLE Sense Overview](gilberttanner.com/blog/arduino-nano-33-ble-sense-overview)
+- [Run PyTorch models on the Jetson Nano with TensorRT](gilberttanner.com/blog/run-pytorch-models-on-the-jetson-nano-with-tensorrt)
 <!-- BLOG-POST-LIST:END -->
