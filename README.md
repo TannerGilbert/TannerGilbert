@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilbert Tanner</h1>
 <h3 align="center">Machine Learning Developer | Part-time blogger at https://gilberttanner.com/</h3>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tannergilbert&show_icons=true" alt="tannergilbert" />
-</p>
+
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -14,11 +12,9 @@
 - [Arduino Nano 33 BLE Sense Overview](https://gilberttanner.com/blog/arduino-nano-33-ble-sense-overview)
 <!-- BLOG-POST-LIST:END -->
 
-## Connect with me:
+## 🤝Connect with me:
 <p align="center">
-<a href="https://twitter.com/tanner__gilbert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tanner__gilbert" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/gilbert-tanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gilbert-tanner" height="30" width="30" /></a>
-<a href="https://kaggle.com/tannergi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="tannergi" height="30" width="30" /></a>
-<a href="https://medium.com/@gilberttanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gilberttanner" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/gilbert tanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="gilbert tanner" height="30" width="30" /></a>
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22&color=black">](https://gilberttanner.com)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/tanner__gilbert) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@gilberttanner)
 </p>
