@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gilbert Tanner<
+# Hi 👋, I'm Gilbert Tanner
 
 I'm a machine learning developer from Austria that loves writing articles and contributing to open source.
 
