@@ -8,11 +8,11 @@ I'm a machine learning developer from Austria that loves writing articles and co
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tensorflow.js Crash-Course](https://gilberttanner.com/blog/tensorflow-js-crash-course)
 - [Creating a blog with Nuxt Content](https://gilberttanner.com/blog/creating-a-blog-with-nuxt-content)
 - [Wio Terminal Overview](https://gilberttanner.com/blog/wio-terminal-overview)
 - [ML-Agents 1.0 - A Definite Guide](https://gilberttanner.com/blog/ml-agents)
 - [Tensorflow Object Detection with Tensorflow 2: Creating a custom model](https://gilberttanner.com/blog/tensorflow-object-detection-with-tensorflow-2-creating-a-custom-model)
-- [Tensorflow Object Detection with Tensorflow 2](https://gilberttanner.com/blog/object-detection-with-tensorflow-2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝Connect with me:
