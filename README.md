@@ -8,11 +8,11 @@ I'm a machine learning developer from Austria that loves writing articles and co
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Run TFLITE models on the web](https://gilberttanner.com/blog/run-tflite-models-on-the-web)
-- [TFLite Object Detection with TFLite Model Maker](https://gilberttanner.com/blog/tflite-model-maker-object-detection)
-- [D2Go - Use Detectron2 on mobile devices](https://gilberttanner.com/blog/d2go-use-detectron2-on-mobile-devices)
-- [Tensorflow.js Crash-Course](https://gilberttanner.com/blog/tensorflow-js-crash-course)
-- [Creating a blog with Nuxt Content](https://gilberttanner.com/blog/creating-a-blog-with-nuxt-content)
+- [Run TFLITE models on the web](https://gilberttanner.com/blog/run-tflite-models-on-the-web/)
+- [TFLite Object Detection with TFLite Model Maker](https://gilberttanner.com/blog/tflite-model-maker-object-detection/)
+- [D2Go - Use Detectron2 on mobile devices](https://gilberttanner.com/blog/d2go-use-detectron2-on-mobile-devices/)
+- [Tensorflow.js Crash-Course](https://gilberttanner.com/blog/tensorflow-js-crash-course/)
+- [Creating a blog with Nuxt Content](https://gilberttanner.com/blog/creating-a-blog-with-nuxt-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝Connect with me:
