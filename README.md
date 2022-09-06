@@ -12,7 +12,7 @@ I'm a machine learning developer from Austria that loves writing articles and co
 - [TFLite Object Detection with TFLite Model Maker](https://gilberttanner.com/blog/tflite-model-maker-object-detection/)
 - [D2Go - Use Detectron2 on mobile devices](https://gilberttanner.com/blog/d2go-use-detectron2-on-mobile-devices/)
 - [Tensorflow.js Crash-Course](https://gilberttanner.com/blog/tensorflow-js-crash-course/)
-- [Creating a blog with Nuxt Content](https://gilberttanner.com/blog/creating-a-blog-with-nuxt-content/)
+- [Tensorflow Object Detection with Tensorflow 2: Creating a custom model](https://gilberttanner.com/blog/tensorflow-object-detection-with-tensorflow-2-creating-a-custom-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝Connect with me:
