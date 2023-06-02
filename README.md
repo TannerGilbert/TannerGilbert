@@ -1,8 +1,8 @@
 # Hi 👋, I'm Gilbert Tanner
 
-I'm a machine learning developer from Austria that loves writing articles and contributing to open source.
+I'm a software engineer from Austria currently studying Robotics and Artificial Intelligence at the [University of Klagenfurt](https://www.aau.at/).
 
-- 👨🏽‍💻 Currently working and growing my skillset in Machine Learning and Data Science
+- 👨🏽‍💻 Currently working and growing my skillset in Robotics and Artificial Intelligence
 - 🤝 Open for collaborations regarding technical articles and Machine Learning projects
 - 🌐 Visit my [website](https://gilberttanner.com) for more information
 
