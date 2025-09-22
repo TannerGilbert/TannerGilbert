@@ -1,10 +1,6 @@
 # Hi 👋, I'm Gilbert Tanner
 
-I'm a software engineer from Austria currently studying Robotics and Artificial Intelligence at the [University of Klagenfurt](https://www.aau.at/).
-
-- 👨🏽‍💻 Currently working and growing my skillset in Robotics and Artificial Intelligence
-- 🤝 Open for collaborations regarding technical articles and Machine Learning projects
-- 🌐 Visit my [website](https://gilberttanner.com) for more information
+I'm currently doing my Masters in Robotics, Systems and Control at [ETH Zürich](https://ethz.ch/) and previously studied Robotics and Artificial Intelligence at the [University of Klagenfurt](https://www.aau.at/).
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
